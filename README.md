@@ -19,8 +19,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,swift,React Native,firebase,nodejs,ReactJs,figma,git,github,vscode,androidstudio" />
-  <img src="https://skillicons.dev/icons?i=react,flutter,dart,nodejs,firebase,swift,git,github,vscode,androidstudio,figma" />
+  <img src="https://skillicons.dev/icons?i=react,js,flutter,dart,tailwind,swift,firebase,nodejs,figma,git,github,vscode,androidstudio" />
 </p>
 
 ---
@@ -33,6 +32,7 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krouchvanyda&theme=transparent&currStreakNum=42A5F5&sideLabels=ffffff&stroke=42A5F5&hide_border=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krouchvanyda&theme=transparent&currStreakNum=42A5F5&sideLabels=ffffff&stroke=42A5F5&hide_border=true" height="165"/>
 </p>
 
