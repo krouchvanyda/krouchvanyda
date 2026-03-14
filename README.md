@@ -20,6 +20,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=flutter,dart,swift,React Native,firebase,nodejs,ReactJs,figma,git,github,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart,nodejs,firebase,swift,git,github,vscode,androidstudio,figma" />
 </p>
 
 ---
