@@ -1,15 +1,14 @@
-## 🚀 Flutter Developer | React Natvie | ReactJs  
-🎨 UI-focused | Clean Architecture | Mobile & Web  
+## 🚀 Flutter Developer | React Natvie | ReactJS 
+🎨 UI-focused | Clean Architecture | Mobile & Frontend  
 🇰🇭 Cambodia
 
 ---
 
 ### 👨‍💻 About Me
 
-- 📱 Mobile App Developer specializing in **Flutter & Dart**
+- 📱 Mobile App Developer specializing in **React Native, Flutter & Dart**
 - 🔥 Backend Architect with **Supabase & Firebase**
 - 🎯 Passionate about **Clean Architecture** and **Micro-interactions**
-- 🛠️ Full-stack curious with **Vue, Node.js, and MySQL**
 - 🎨 UI/UX Design enthusiast using **Figma**
 
 ---
@@ -52,7 +51,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=CREATING+SEAMLESS+EXPERIENCES;FLUTTER+DEVELOPER+🚀;ReactJS+DEVELOPER+🔥; React+Native+EXPERT+🔥;HAPPY+CODING!+🇰🇭" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=CREATING+SEAMLESS+EXPERIENCES;FLUTTER+DEVELOPER+🚀;ReactJS+DEVELOPER+🔥;React+Native+EXPERT+🔥;HAPPY+CODING!+🇰🇭" alt="Typing SVG" />
 </p>
 
 <p align="center">
