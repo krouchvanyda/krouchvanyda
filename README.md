@@ -27,10 +27,19 @@
 ### 📊 Performance & Skills
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=krouchvanyda&show_icons=true&theme=transparent&title_color=42A5F5&text_color=ffffff&icon_color=42A5F5&hide_border=true" height="165"/> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=krouchvanyda&show_icons=true&theme=transparent&title_color=42A5F5&text_color=ffffff&icon_color=42A5F5&hide_border=true" height="165"/>
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krouchvanyda&layout=compact&theme=transparent&title_color=42A5F5&text_color=ffffff&hide_border=true" height="165"/> -->
-  <img src="https://streak-stats.demolab.com?user=krouchvanyda&theme=transparent&hide_border=true&ring=42A5F5&fire=42A5F5&currStreakLabel=42A5F5"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krouchvanyda&layout=compact&langs_count=10&theme=transparent&title_color=42A5F5&text_color=ffffff&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krouchvanyda&show_icons=true&theme=transparent&title_color=42A5F5&text_color=ffffff&icon_color=42A5F5&hide_border=true" height="165"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krouchvanyda&layout=compact&langs_count=8&theme=transparent&title_color=42A5F5&text_color=ffffff&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krouchvanyda&layout=compact&langs_count=10&theme=transparent&title_color=42A5F5&text_color=ffffff&hide_border=true"/>
 </p>
 
 <p align="center">
