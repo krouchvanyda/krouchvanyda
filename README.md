@@ -14,7 +14,7 @@
 
 ---
 <p align="center">
-  <img src="https://stats.pphat.top/stats?username=NhebPanha&avatar_mode=radar&data_border_style=solid&data_border_frame_position=in" />
+  <img src="https://stats.pphat.top/stats?username=krouchvanyda&avatar_mode=radar&data_border_style=solid&data_border_frame_position=in" />
 </p>
 
 ### 🛠️ Languages & Tools
