@@ -7,8 +7,8 @@
 ### 👨‍💻 About Me
 
 - 📱 Mobile App Developer specializing in **React Native / Flutter**
-- 📱 Frontend  Developer specializing in **ReactJs**
-- 💻 Backend Architect with **Supabase & Firebase**
+- 💻 Frontend  Developer specializing in **ReactJs**
+- 🔥 Backend Architect with **Supabase & Firebase**
 - 🎯 Passionate about **Clean Architecture** and **Micro-interactions**
 - 🎨 UI/UX Design enthusiast using **Figma**
 
