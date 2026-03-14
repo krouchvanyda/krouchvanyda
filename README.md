@@ -1,4 +1,4 @@
-## 🚀 Flutter Developer | Supabase | Firebase | Vue  
+## 🚀 Flutter Developer | React Natvie | ReactJs  
 🎨 UI-focused | Clean Architecture | Mobile & Web  
 🇰🇭 Cambodia
 
@@ -20,7 +20,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,swift,supabase,firebase,nodejs,vue,mysql,mongodb,figma,git,github,vscode,androidstudio,linux,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,swift,React Native,firebase,nodejs,ReactJs,figma,git,github,vscode,androidstudio" />
 </p>
 
 ---
@@ -52,7 +52,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=CREATING+SEAMLESS+EXPERIENCES;FLUTTER+DEVELOPER+🚀;SUPABASE+EXPERT+🔥;HAPPY+CODING!+🇰🇭" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=CREATING+SEAMLESS+EXPERIENCES;FLUTTER+DEVELOPER+🚀;ReactJS+DEVELOPER+🔥; React+Native+EXPERT+🔥;HAPPY+CODING!+🇰🇭" alt="Typing SVG" />
 </p>
 
 <p align="center">
